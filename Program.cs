@@ -6,8 +6,10 @@ namespace First
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World2");
+            myMethod ob = new myMethod();
+            Console.WriteLine(ob.Add(5,10));
+            Console.WriteLine(ob.Add(20,30));
+            Console.WriteLine(ob.Add(5,50));
         }
     }
 }

@@ -1,0 +1,16 @@
+E:\CSHARP\First\bin\Debug\net5.0\First.exe
+E:\CSHARP\First\bin\Debug\net5.0\First.deps.json
+E:\CSHARP\First\bin\Debug\net5.0\First.runtimeconfig.json
+E:\CSHARP\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+E:\CSHARP\First\bin\Debug\net5.0\First.dll
+E:\CSHARP\First\bin\Debug\net5.0\ref\First.dll
+E:\CSHARP\First\bin\Debug\net5.0\First.pdb
+E:\CSHARP\First\obj\Debug\net5.0\First.csprojAssemblyReference.cache
+E:\CSHARP\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSHARP\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+E:\CSHARP\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+E:\CSHARP\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+E:\CSHARP\First\obj\Debug\net5.0\First.dll
+E:\CSHARP\First\obj\Debug\net5.0\ref\First.dll
+E:\CSHARP\First\obj\Debug\net5.0\First.pdb
+E:\CSHARP\First\obj\Debug\net5.0\First.genruntimeconfig.cache
